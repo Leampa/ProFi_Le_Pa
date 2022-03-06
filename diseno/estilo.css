@@ -8,17 +8,10 @@ background-color: #4c4f52;
 
 .iconos{
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     color: white;
+
 }
-
-
-
-
-
-
-
-
 
 
 /* Sidebar para mobile */
@@ -70,8 +63,14 @@ left: 0;
                }
                .iconos{
                 text-align: center;
-                font-size: 26px;
+                font-size: 22px;
                 color: white;
+                }
+
+                .iconos img{
+                    height:48px;
+                    width:48px;
+                }
             }
             
     }
